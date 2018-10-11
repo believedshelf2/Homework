@@ -12,6 +12,7 @@ public class rocket3 {
 		drawTopHalf();
 		drawDivider();
 		drawCone();
+		//yeet
 	}
 // the first string is assigned as an integer for the outer for loop
 // make a nested for loop that will print out the spaces, lines,slashes and stars
