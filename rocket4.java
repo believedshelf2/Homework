@@ -73,6 +73,7 @@ public class rocket4 {
 				}
 			}
 			System.out.println("|");
+			//you are the big gay
 		}
 	}
 }
